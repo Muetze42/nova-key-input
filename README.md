@@ -2,6 +2,8 @@
 
 # Laravel Nova KeyInput Field
 
+composer require norman-huth/nova-key-input
+
 Based on [KeyValue Field](https://nova.laravel.com/docs/4.0/resources/fields.html#keyvalue-field)
 
 ```php
